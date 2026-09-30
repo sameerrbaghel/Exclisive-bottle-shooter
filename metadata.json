@@ -1,0 +1,6 @@
+{
+  "name": "Saloon Bottle Shooter",
+  "description": "Classic arcade bottle shooting gallery with realistic glass shatter physics, procedural Web Audio effects, multi-tier targets, and responsive canvas gameplay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
